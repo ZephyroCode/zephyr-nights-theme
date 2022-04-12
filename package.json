@@ -2,7 +2,7 @@
   "name": "zephyr-nights-theme",
   "displayName": "Zephyr Nights Theme",
   "description": "Dark Color Theme made based on personal taste to share!",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.65.0"
   },
