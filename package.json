@@ -1,0 +1,28 @@
+{
+  "name": "zephyr-nights-theme",
+  "displayName": "Zephyr Nights Theme",
+  "description": "Dark Color Theme made based on personal taste to share!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zephyr Nights Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zephyr Nights Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "./icons/ZNTIcon.png",
+  "author": {
+    "name": "Wilver 'Zephyro' Salazar",
+    "email": "royceskycraft@gmail.com",
+    "url": "https://linkedin.com/in/wilver-salazar-974367224"
+  },
+  "publisher": "zephyro-code"
+}
