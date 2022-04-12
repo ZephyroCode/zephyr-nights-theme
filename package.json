@@ -18,7 +18,7 @@
       }
     ]
   },
-  "icon": "./icons/ZNTIcon.png",
+  "icon": "icons/ZNTIcon.png",
   "author": {
     "name": "Wilver 'Zephyro' Salazar",
     "email": "royceskycraft@gmail.com",
