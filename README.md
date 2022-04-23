@@ -17,6 +17,30 @@ I made this theme because I found several themes that I liked a lot, but none of
 
 ---
 
+## Screenshots
+
+### HTML
+
+![HTML](./img/html-preview.png "HTML")
+
+### CSS
+
+![CSS](./img/css-preview.png "CSS")
+
+### JavaScript
+
+![JavaScript](./img/js-preview.png "JavaScript")
+
+### JSON
+
+![JSON](./img/json-preview.png "JSON")
+
+### Markdown
+
+![Markdown](./img/markdown-preview.png "Markdown")
+
+---
+
 ## Misc
 
 This is the first theme I've done, so I'm basically looking for any feedback I can get.

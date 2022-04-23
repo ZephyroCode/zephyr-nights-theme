@@ -2,7 +2,7 @@
   "name": "zephyr-nights-theme",
   "displayName": "Zephyr Nights Theme",
   "description": "Dark Color Theme made based on personal taste to share!",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -25,8 +25,8 @@
     "url": "https://linkedin.com/in/wilver-salazar-974367224"
   },
   "repository": {
-	"url": "https://github.com/ZephyroCode/zephyr-nights-theme.git",
-	"type": "git"
-	},
+    "url": "https://github.com/ZephyroCode/zephyr-nights-theme.git",
+    "type": "git"
+  },
   "publisher": "ZephyroCode"
 }

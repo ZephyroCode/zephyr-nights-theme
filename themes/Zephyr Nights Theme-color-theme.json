@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#292d36",
-    "editor.foreground": "#ffffff",
+    "editor.foreground": "#dddddd",
     "activityBarBadge.background": "#ff0044",
     "sideBarTitle.foreground": "#ffffff"
   },
@@ -13,14 +13,14 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7ca8ac"
+        "foreground": "#486d72"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#e674a5"
+        "foreground": "#fe61a5"
       }
     },
     {
@@ -34,7 +34,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#fd3758"
       }
     },
     {
@@ -72,7 +72,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ff4fa1"
+        "foreground": "#ed4995"
       }
     },
     {
