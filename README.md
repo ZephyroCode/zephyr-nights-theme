@@ -4,6 +4,8 @@ A **Visual Studio Code** color theme made based in pure personal taste for codin
 
 I made this theme because I found several themes that I liked a lot, but none of them _catched_ me to stick to it, so I decided to make mine!
 
+### this code is wrong
+
 ---
 
 ## Installation
